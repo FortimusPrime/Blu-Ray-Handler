@@ -3,3 +3,4 @@ A lightweight Mobile App to organize and view my Blu-Ray collection at a glance.
 - Add Items to my collection
 - Edit Items in my collection
 - Remove items in my collection
+Other items will be added as time goes by. 
